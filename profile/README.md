@@ -1,11 +1,18 @@
 # Ship Sh!t Show
 
-Weekly livestream — AI tools, indie dev, and shipping fast.
+Vincent and Mitchell discuss the AI models and workflows they actually use to build and ship software.
 
-[YouTube](https://www.youtube.com/@ShipShitShow) · [Clips](https://www.youtube.com/@ShipShitShowClips) · [Instagram](https://www.instagram.com/shipshitdev/) · [TikTok](https://www.tiktok.com/@shipshitdev) · [Reddit](https://www.reddit.com/r/ShipShitDev/) · [Substack](https://shipshitdev.substack.com/)
+- [Watch the show](https://www.youtube.com/@shipshitshow)
+- [Watch the clips](https://www.youtube.com/@ShipShitShowClips)
+- [Public site](https://show.shipshit.dev)
+- [Producer app](https://send.shipshit.dev)
 
----
+## Viewer resources
 
-**Repos:**
-- [`youtube`](https://github.com/shipshitshow/youtube) — Episode scripts, transcripts, show notes
-- [`premiere`](https://github.com/shipshitshow/premiere) — Adobe Premiere MCP for AI-assisted video editing
+- [Vault](https://github.com/shipshitshow/vault): episode transcripts, notes, resources, production handbook and brand-kit direction.
+- [Skills](https://github.com/shipshitshow/skills): reusable podcast/livestream preparation, YouTube packaging, branding, Restream, partner reads and Tesseract workflows.
+- [Examples](https://github.com/shipshitshow/examples): curated demonstration code and planning artifacts indexed by source livestream; migration/publication status is recorded in the repository.
+
+New editing uses Tesseract through GPT/Claude and its installed plugin. [Premiere](https://github.com/shipshitshow/premiere) remains a historical workflow reference while retirement is reconciled.
+
+Historical source repositories are preserved for provenance. The maintained resource entry points above replace the former `youtube` repository link.
